@@ -1,0 +1,14 @@
+.tools/
+tmp/
+android/build/
+node_modules/
+*.log
+*.keystore
+*.jks
+*.pem
+.env
+.env.*
+!.env.example
+*.pdf
+output/*
+!output/opcoes-icones-formas.png

@@ -1,0 +1,158 @@
+# Entries transcribed from the supplied second-edition base book. @ = PDF page.
+# Group|origin type; level|name@PDF page;name@PDF page
+[Hominídeo|Raça]
+1|Persuasão@131;Simular Odor de Homem@131
+2|Perturbar Tecnologia@131;Fitar@131
+3|Inquietação@131;Remodelar Objeto@132
+4|Casulo@132;Defesa contra Espíritos@132
+5|Assimilação@132;Romper o Véu@132
+[Impuro|Raça]
+1|Criar Elemento@132;Sentir a Wyrm@132
+2|Cavar@133;Maldição do Ódio@133
+3|Olhos de Gato@133;Comunicação Mental@133
+4|Dom do Porco-Espinho@133;Definhar Membro@133
+5|Loucura@133;Dom do Totem@133
+[Lupino|Raça]
+1|Sentidos Aguçados@133;Salto de Canguru@134
+2|Visão Olfativa@134;Senso do Sobrenatural@134
+3|Pés de Gato@134;Nome do Espírito@134
+4|Vida Animal@134;Roer@134
+5|Dom dos Elementos@134;Canção da Grande Fera@134
+[Ragabash|Augúrio]
+1|Embaçamento da Própria Forma@135;Abrir Objetos@135;Simular Cheiro de Água Corrente@135
+2|Gerar Ignorância@135;Sentir a Presa@135;Induzir Esquecimento@135
+3|Gremlins@135;Abrir Ponte da Lua@135
+4|Bênção da Lua@135;Fragilizar Corpos@135
+5|Roubar Poderes@135;Violação@136
+[Theurge|Augúrio]
+1|Toque da Mãe@136;Sentir a Wyrm@136;Comunicação com Espíritos@136
+2|Comandar Espíritos@136;Nome do Espírito@136;Visões@136
+3|Exorcismo@136;Percepção do Invisível@136
+4|Captura à Distância@136;Drenagem Espiritual@137;Argumento Definitivo de Lógica@137
+5|Lobotomia Animal@137;Moldagem de Espírito@137
+[Filodox|Augúrio]
+1|Resistência à Dor@137;Faro para a Forma Verdadeira@137;Verdade de Gaia@138
+2|Chamado do Dever@138;Reis dos Animais@138;Determinação@138
+3|Descobrir Calcanhar de Aquiles@138;Sabedoria das Antigas Tradições@138
+4|Imposição@138;Faro para Grandes Distâncias@138
+5|Mesmerizar@138;Parede de Granito@138
+[Galliard|Augúrio]
+1|Comunicação com Animais@139;Chamado da Wyld@139;Comunicação Telepática@139
+2|Chamado da Wyrm@139;Distrações@139;Comunicação Onírica@139
+3|Olho de Cobra@139;Canção da Fúria@139
+4|Andarilho da Ponte@139;Teatro de Sombras@139
+5|Materialização de Sonhos@140;Jogos da Mente@140
+[Ahroun|Augúrio]
+1|Inspiração@140;Garras Afiadas@140;O Toque da Queda@140
+2|Sentir Prata@140;Espírito da Batalha@140;Medo Verdadeiro@140
+3|Coração da Fúria@140;Garras de Prata@141
+4|Mordida de Ferro@141;Atiçando a Fornalha da Fúria@141
+5|Beijo de Hélios@141;Vontade Inabalável@141
+[Fúrias Negras|Tribo]
+1|Sentidos Aguçados@141;Sentir a Wyrm@141
+2|Maldição de Éolo@141;Sentir a Presa@141
+3|Coup de Grace@141;Agonia Visceral@141
+4|Abalo Corporal@142;Garras-Ferrões@142
+5|As Mil Formas@142;Invocação da Wyld@142
+[Roedores de Ossos|Tribo]
+1|Culinária@142;Simular Cheiro de Mel Doce@142
+2|Gerar Ignorância@143;Odor Repugnante@143
+3|Moldar Objeto@143;Dom do Gambá@143
+4|Harmonia@143;Infestar@143
+5|Sobrevivente@143;Turba@143
+[Filhos de Gaia|Tribo]
+1|Toque da Mãe@143;Resistência à Dor@143
+2|Acalmar@143;Armadura da Luna@143
+3|Pasmar@144;Espírito Amigo@144
+4|Vida Animal@144;Serenidade@144
+5|Aura do Sol@144;Madeira Viva@144
+[Fianna|Tribo]
+1|Persuasão@144;Resistência a Toxinas@144
+2|Blá-blá-blá@144;Uivo do Banshee@144
+3|Parente Fada@144
+4|Remodelar Objeto@144;Olho Vermelho@144
+5|Fantasma@145;Chamado para a Caçada@145;Dom do Spriggan@145
+[Cria de Fenris|Tribo]
+1|Garras Afiadas@145;Resistência à Dor@145
+2|Deter a Fuga dos Covardes@145;Rugido do Predador@145
+3|Poder de Thor@145;Sangue Venenoso@145
+4|União com a Terra@145;Grito de Gaia@145
+5|Horda do Valhalla@145;Mordida de Fenris@146
+[Andarilhos do Asfalto|Tribo]
+1|Controle de Máquinas Simples@146;Persuasão@146
+2|Sentidos Cibernéticos@146;Sobrecarga de Energia@146
+3|Controle de Máquinas Complexas@146;Favor do Elemental@146
+4|Harmonia@146;Doppelganger@146
+5|Acalmar o Rebanho@147;Invocar Aranha de Rede@147
+[Garras Vermelhas|Tribo]
+1|Comunicação com Animais@147;Simular Odor de Água Corrente@147
+2|Mente Animal@147;Sentir a Presa@147
+3|Favor do Elemental@147;Terreno Irrastreável@147
+4|Avalanche@147;Areia Movediça@147
+5|Maldição de Dionísio@147;Vingança de Gaia@147
+[Senhores das Sombras|Tribo]
+1|Fraquezas Fatais@147;Aura de Confiança@148
+2|Palma de Trovão@148;Armadura de Luna@148
+3|Arrepio de Desespero@148;Olhar Paralisante@148
+4|Feridas Abertas@148;Imposição do Dominador@148
+5|Obediência@148;Sombra@148
+[Peregrinos Silenciosos|Tribo]
+1|Sentir a Wyrm@149;Velocidade do Pensamento@149
+2|Gerar Ignorância@149;Resistência de Mensageiro@149
+3|Adaptação@149;O Grande Salto@149
+4|Harmonia@149;Velocidade Mais Rápida que o Pensamento@149
+5|Portal da Lua@149;Alcançar a Umbra@149
+[Presas de Prata|Tribo]
+1|Chama Tremulante@149;Sentir a Wyrm@149
+2|Pasmo@149;Armadura de Luna@149
+3|Garras de Prata@150;Ira de Gaia@150
+4|Maestria@150;Bloqueio Mental@150
+5|Vingador de Luna@150;Patas de Filhote Recém-Nascido@150
+[Portadores da Luz|Tribo]
+1|Equilíbrio@150;Sentir a Wyrm@150
+2|Força Interior@150;Harmonia com a Superfície@150
+3|Claridade@150;Golpe Piedoso@150
+4|Consciência Sobrenatural@150;Argumento de Lógica Irrefutável@151
+5|Ataque Circular@151;Sabedoria do Vidente@151
+[Uktena|Tribo]
+1|Sentir Magia@151;Mortalha@151
+2|Espírito do Pássaro@151;Espírito do Peixe@151
+3|Invocar Espírito das Chamas@151;Invisibilidade@151
+4|Invocar Elemental@151;Mão dos Senhores da Terra@151
+5|Materialização de Sonhos@151;Boneco Vodu@151
+[Wendigo|Tribo]
+1|Invocar a Brisa@152;Camuflagem@152
+2|Vento Cortante@152;Falar com Espíritos dos Ventos@152
+3|Frio de Neve Nova@152;Correr no Ar@152
+4|Harmonia@153;Invocar o Espírito Canibal@153
+5|Invocar os Espíritos da Tempestade@153;Coração de Gelo@153
+
+# Ritual categories
+[Acordo|Ritual]
+1|Ritual de Purificação@155;Ritual de Contrição@155
+2|Ritual de Renúncia@156
+[Caern|Ritual]
+1|Ritual de Assembleia@156;Ritual de Abertura do Caern@156
+4|A Toca do Texugo@157;Ritual de Abertura da Ponte@157;Ritual da Ravina Encoberta@158
+5|Ritual da Criação de Caern@158
+[Morte|Ritual]
+1|Cerimônia pelos Falecidos@159
+3|Ritual do Lobo do Inverno@159
+[Místico|Ritual]
+1|Batismo de Fogo@159;Ritual de Compromisso@160;Ritual da Pedra Caçadora@160;Ritual de Dedicação a um Talismã@160
+2|Ritual de Iniciação@160;Ritual para Despertar Espíritos@161;Ritual de Conjuração@161
+3|Ritual de Fetiche@162;Ritual do Totem@162
+[Punição|Ritual]
+2|Ritual de Ostracismo@162;Pedra do Escárnio@163;Voz do Chacal@163
+3|A Caçada@163;Ritual Satírico@164
+4|O Laceramento do Véu@164
+5|Os Dentes Vingativos de Gaia@164
+[Renome|Ritual]
+1|Ritual de Ferimento@165
+2|Ritual de Conquista@164;Ritual de Passagem@165
+[Periódico|Ritual]
+2|Ritual dos Ventos Frios@166;A Grande Caçada@166
+?|Ritual do Novo Despertar@166
+4|Ritual de Keres@167
+[Pequeno ritual|Ritual]
+0|Ritmos Ósseos@168;Hálito de Gaia@168;Saudação da Lua@168;Saudação do Sol@168;Oração da Caçada@169;Oração pela Presa@169

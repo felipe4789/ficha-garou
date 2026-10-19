@@ -1,0 +1,16 @@
+import assert from 'node:assert/strict';
+import {connectAndroid,runAdb} from '../scripts/android-cdp.mjs';
+const c=await connectAndroid();
+const click=selector=>c.evaluate(`document.querySelector(${JSON.stringify(selector)}).click();true`);
+const wait=()=>new Promise(r=>setTimeout(r,350));
+await c.evaluate('location.reload();true');await wait();
+await click('.category-nav [data-page="gifts"]');await click('.category-nav [data-page="notes"]');
+runAdb('shell','input','keyevent','4');await wait();
+assert.equal(await c.evaluate('document.querySelector(".category-nav [aria-current=page]").dataset.page'),'gifts');
+await click('.settings-button');
+runAdb('shell','input','swipe','1','1100','450','1100','400');await wait();
+assert.equal(await c.evaluate('document.querySelector("dialog").open'),false,'Gesto esquerdo fecha configurações');
+runAdb('shell','input','swipe','1078','1100','630','1100','400');await wait();
+assert.equal(await c.evaluate('document.querySelector(".category-nav [aria-current=page]").dataset.page'),'overview','Gesto direito retorna à tela anterior');
+console.log('PASS: voltar nativo, gesto pela borda esquerda e gesto pela borda direita.');
+c.close();

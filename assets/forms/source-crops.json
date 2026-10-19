@@ -1,0 +1,37 @@
+{
+  "source": "assets/forms/approved-option2-source.png",
+  "option": 2,
+  "method": "Exact source-pixel crops; original outlines retained. CSS blends the dark presentation background.",
+  "icons": {
+    "hominideo": {
+      "left": 229,
+      "top": 293,
+      "width": 74,
+      "height": 192
+    },
+    "glabro": {
+      "left": 392,
+      "top": 303,
+      "width": 134,
+      "height": 182
+    },
+    "crinos": {
+      "left": 594,
+      "top": 282,
+      "width": 131,
+      "height": 203
+    },
+    "hispo": {
+      "left": 766,
+      "top": 329,
+      "width": 246,
+      "height": 155
+    },
+    "lupino": {
+      "left": 1029,
+      "top": 360,
+      "width": 173,
+      "height": 124
+    }
+  }
+}
